@@ -33,7 +33,7 @@ The **Vulnerability Scanner** is a lightweight command-line tool that helps iden
 ### Requirements
 
 - Unix-like OS with Bash support
-- `cURL` installed
+- `curl` installed
 
 ### Contribution
 
