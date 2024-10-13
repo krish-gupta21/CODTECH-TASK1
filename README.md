@@ -1,2 +1,2 @@
 # CODTECH-TASK1
-Vulnwrability Scanner Tool
+Vulnerability Scanner Tool
