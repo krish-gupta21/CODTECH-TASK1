@@ -7,6 +7,8 @@
 
 # Overview of the Project
 
+---
+
 ### Project: Vulnerabilty Scanning Tool
 
 The **Vulnerability Scanner** is a lightweight command-line tool that helps identify potential security weaknesses in target systems. It performs two key functions: scanning for open TCP ports and checking the software version of a specified URL.
@@ -38,11 +40,3 @@ The **Vulnerability Scanner** is a lightweight command-line tool that helps iden
 ### Contribution
 
 Contributions are welcome! Open an issue or submit a pull request to enhance the script.
-
-### License
-
-This project is licensed under the MIT License.
-
---- 
-
-Feel free to adjust any sections to better fit your project's needs!
