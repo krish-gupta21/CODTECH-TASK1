@@ -1,4 +1,4 @@
-**Name:** Krish Gupta
+lo**Name:** Krish Gupta
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS7959
 **DOMAIN:** CYBER ECURITY AND ETHICAL HACKING
@@ -22,6 +22,7 @@ The **Vulnerability Scanner** is a lightweight command-line tool that helps iden
    ```bash
    git clone https://github.com/krish-gupta21/CODTECH-TASK1.git
    cd vulnerability-scanner
+   chmod +x vulnscan.sh
    ```
 
 2. Run the scanner:
