@@ -9,7 +9,7 @@
 
 ### Project: Vulnerabilty Scanning Tool
 
-The **Vulnerability Scanner** is a command-line tool that helps identify potential security weaknesses in target systems. It performs two key functions: scanning for open TCP ports and checking the software version of a specified URL.
+The **Vulnerability Scanner** is a lightweight command-line tool that helps identify potential security weaknesses in target systems. It performs two key functions: scanning for open TCP ports and checking the software version of a specified URL.
 
 ### Features
 
