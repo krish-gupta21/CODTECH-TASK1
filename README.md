@@ -20,7 +20,7 @@ The **Vulnerability Scanner** is a lightweight command-line tool that helps iden
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/vulnerability-scanner.git
+   git clone https://github.com/krish-gupta21/CODTECH-TASK1.git
    cd vulnerability-scanner
    ```
 
