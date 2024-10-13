@@ -26,7 +26,7 @@ The **Vulnerability Scanner** is a lightweight command-line tool that helps iden
 
 2. Run the scanner:
    ```bash
-   ./scanner.sh
+   ./vulnscan.sh
    ```
 
 ### Requirements
