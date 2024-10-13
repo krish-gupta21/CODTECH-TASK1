@@ -5,9 +5,7 @@
 **DURATION:** September to October 2024
 **MENTOR:**
 
-## Overview of the Project
-
----
+# Overview of the Project
 
 ### Project: Vulnerabilty Scanning Tool
 
