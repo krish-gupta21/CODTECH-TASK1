@@ -5,17 +5,9 @@
 **DURATION:** September to October 2024
 **MENTOR:**
 
-## Overview of the Project
+# Overview of the Project
 
 ### Project: Vulnerabilty Scanning Tool
-
-Here's a more concise overview for your vulnerability scanner project:
-
----
-
-# Vulnerability Scanner
-
-## Overview
 
 The **Vulnerability Scanner** is a command-line tool that helps identify potential security weaknesses in target systems. It performs two key functions: scanning for open TCP ports and checking the software version of a specified URL.
 
