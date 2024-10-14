@@ -1,4 +1,4 @@
-lo**Name:** Krish Gupta
+**Name:** Krish Gupta
 **Company:** CODTECH IT SOLUTIONS
 **ID:** CT08DS7959
 **DOMAIN:** CYBER ECURITY AND ETHICAL HACKING
